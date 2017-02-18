@@ -1,6 +1,8 @@
 infra-puppet
 ============
 
+[![Join the chat at https://gitter.im/infrastructure-puppet/Lobby](https://badges.gitter.im/infrastructure-puppet/Lobby.svg)](https://gitter.im/infrastructure-puppet/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Apache Infrastructure Team - Puppet
 
 
